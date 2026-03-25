@@ -52,21 +52,8 @@ Tic Tac Toe is a simple yet strategic two-player game played on a 3×3 grid.
 
 ---
 
-## 3. Maze Escape
-Maze Escape is a navigation puzzle game where players must find their way out of a maze.
-
-### How it Works
-- The player starts at the maze entrance.
-- The maze contains walls and paths.
-- The goal is to navigate through the maze and reach the exit.
-
-### Objective
-Find the shortest path to the exit while avoiding dead ends.
-
-### Skills Tested
-- Problem solving
-- Spatial awareness
-- Navigation
+## 3. Penalty Taker
+Penalty Taker is an interactive football mini-game where players test their shooting accuracy and timing by taking penalty kicks against a smart goalkeeper. Aim carefully, control your shot power, and try to outsmart the keeper to score goals. The game features smooth animations, realistic goalpost visuals, and engaging arcade-style gameplay that challenges reflexes and precision. Perfect for quick fun, Penalty Taker combines simple controls with competitive excitement to deliver an immersive football experience right in your browser.
 
 ---
 
@@ -102,8 +89,6 @@ This project was created to practice and demonstrate several programming concept
 Possible enhancements for future versions include:
 
 - Difficulty levels for each game
-- AI opponent for Tic Tac Toe
-- Random maze generation
 - Sound effects and animations
 - Leaderboard and score saving
 - Mobile-friendly interface
