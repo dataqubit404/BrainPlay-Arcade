@@ -5,6 +5,7 @@ BrainPlay Arcade is a mini arcade-style game collection that brings together thr
 
 Players can choose from different games through a central menu and enjoy quick gameplay sessions without installing large or complex software. BrainPlay Arcade focuses on clean design, simple controls, and smooth gameplay.
 
+🚀 Live Demo : https://brain-play-arcade.vercel.app/
 ---
 
 # 🎮 Games Included
